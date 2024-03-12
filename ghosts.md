@@ -1,5 +1,6 @@
 ---
 author: Dolly Alderton
+title: Ghosts
 isbn: 9780241434543
 read: 2022
 ---
